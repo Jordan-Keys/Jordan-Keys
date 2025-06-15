@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name Is Jordan.<br>I am a software engineer from Uganda.<br>
+Hi, My name Is Jordan.<br>I am a software engineer from Uganda. Passionate about building software that solves problems and everyday challenges with cutting edge technology; which is anpther way of saying I'm into building really cool stuff. <br>
 
 
 ## 🌐 Socials:
