@@ -18,10 +18,3 @@ Hi, My name Is Jordan.<br>I am a software engineer from Uganda. Passionate about
 ![](https://github-contributor-stats.vercel.app/api?username=Jordan-Keys&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-
-<!-- Custom Animated Tetris SVG (GitHub contribution style, black/green/orange) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jordan-Keys/assets/main/tetris-github-style.svg" alt="Animated Tetris in GitHub Contribution Style"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
